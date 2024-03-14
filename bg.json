@@ -1,11 +1,11 @@
 {
-  "name": "FrostedGlass",
+  "name": "bg",
   "version": "1.0",
   "description": "Orignal Author For BetterDiscord Theme: Gibbu#1211",
   "color": "#000000",
   "authors": [
     {
-      "name": "mxdhav",
+      "name": "f3x",
       "id": "757530324686340197"
     }
    ],
@@ -147,7 +147,7 @@
    },
   "background": {
     "blur": 3.6,
-    "url": "https://i.pinimg.com/originals/50/15/7f/50157f642817c455e2ed7028e6ad31a8.gif",
+    "url": "https://r2.e-z.host/17373bbb-46a5-4956-a648-97f088d2700d/1oi14sms.png",
     "alpha": 0.88
   }
 }
